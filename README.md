@@ -2,7 +2,7 @@
 
 This goal of this repo is to use TensorFlow interfaced via Keras to train an LSTM Neural Network to predict the behavior of eight of the most traded currencies globally.
 
-LSTM is a better option (over traditional RNNs) for such complex time-series analysis because it updates it's module state and allows neurons to keep long-term memory of data.
+LSTM is a better option (over traditional RNNs) for such complex time-series analysis because it updates its module state and allows neurons to keep long-term memory of data.
 
 *Results when predicting a single point with the entire history behind it. This information can be applied to volatility forecasting.*
 ![](img/point_by_point.png)
